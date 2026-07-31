@@ -1,45 +1,43 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
+<img src="./ascii.svg" width="460" alt="Pushpendra Singh"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
-[email](mailto:clb@mirasvit.com)
+[github](https://github.com/PushpendraXdev) &nbsp;·&nbsp;
+[linkedin](https://linkedin.com/in/pushpendrasingh19)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
-> Small, sharp tools over big vague ideas.
+> Final-year CS student at MIPS, Kanpur.<br>
+> Backend-leaning builder, chasing SWE roles in fintech and product.
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
-deep into markets: Pine Script indicators, backtesting, on-chain data.
+I build fast, ship what works, and keep learning what breaks. Right now that's<br>
+a Payment Reconciliation System — Go + Postgres, automated matching with a<br>
+human approval gate before anything posts to the ledger.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>python &nbsp; go &nbsp; fastapi &nbsp; react &nbsp; postgresql &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
-AI short-form video editor in the browser. Auto captions with accents,<br>
-drag-and-retime editing, b-roll placement: transcript in, rendered video out.
+**[TransitOps](https://github.com/PushpendraXdev/TransitOps-)** &nbsp;·&nbsp; <samp>react, fastapi, postgresql, docker</samp><br>
+Full-stack transport operations platform built for a hackathon —<br>
+went through three problem statements before landing on this one.
 
-**[strategy-checker](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
-Describe a trading strategy in plain English, get a real backtest with<br>
-statistical validation. Exposes curve-fitting, not alpha.
+**Payment Reconciliation System** &nbsp;·&nbsp; <samp>go, postgresql</samp><br>
+Fintech-focused ledger matching engine. Scheduled auto-matching and<br>
+auto-flagging, with high-confidence matches on a fast batch-approval path.
 
-**[compound](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
-Autonomous research agent for your second brain. Built solo at Nozomio<br>
-Hackathon, EF SF.
+**Movie Recommendation System** &nbsp;·&nbsp; <samp>fastapi, streamlit, scikit-learn</samp><br>
+Content-based recommender using the TMDB API, deployed on Render and<br>
+Streamlit Cloud.
 
-**[andriidrok.com](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
-Particle-morph portfolio: thousands of particles reshaping between scenes.
+**AI Interview Prep Platform** &nbsp;·&nbsp; <samp>python</samp><br>
+A tool built to help prep for technical interviews.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
